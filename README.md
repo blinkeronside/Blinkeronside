@@ -1,5 +1,8 @@
 b l i n k e r o n s i d e 
-Python backend / Fronted ract.js development
+-------
+* python backend
+
+* learning frontend react.js
 
 
 
